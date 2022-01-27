@@ -1,0 +1,15 @@
+code refactoring
+1. readibilty
+2. modularity
+3. efficency
+4.length
+2. mutiple selectors{
+    sector1,selector2{
+
+    }
+}
+herirachical selectors{
+    slector1 lector2{
+
+    }
+}
